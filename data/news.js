@@ -2,6 +2,11 @@
 // type: "pub" | "personal" | "career" | (omit for general news)
 const NEWS = [
   {
+    date: "2026.08",
+    type: "pub",
+    text: `First-authored paper <em>"BLADE: Bilevel Low-rank Augmented-Lagrangian Erasure for LLM Unlearning"</em> accepted at <strong>EMNLP 2026 Main Conference</strong>.`,
+  },
+  {
     date: "2026.04",
     type: "pub",
     text: `Co-authored paper <em>"Guardians of the Air: In-Device Detection of 5G Control-Plane Threats"</em> accepted at <strong>IEEE Symposium on Security and Privacy (S&amp;P) 2026</strong>.`,
