@@ -4,7 +4,10 @@ const PUBLICATIONS = [
     authors: "<strong>Md. Toufikuzzaman</strong>, Ahmad Mousavi, Dongwon Lee",
     title: "BLADE: Bilevel Low-rank Augmented-Lagrangian Erasure for LLM Unlearning",
     venue: "Conference on Empirical Methods in Natural Language Processing (EMNLP), Main Conference, 2026",
-    links: [],
+    links: [
+      { label: "pdf", url: "https://arxiv.org/abs/2608.22557" },
+      { label: "code", url: "https://github.com/tzpranto/blade" },
+    ],
   },
   {
     authors: "Tianwei Wu, Abdullah Al Ishtiaq, Tianchang Yang, Yilu Dong, Kai Tu, Zeyu Song, Ridwanul Hasan Tanvir, <strong>Md. Toufikuzzaman</strong>, Shagufta Mehnaz, Syed Rafiul Hussain",
@@ -12,6 +15,7 @@ const PUBLICATIONS = [
     venue: "IEEE Symposium on Security and Privacy (S&P), 2026",
     links: [
       { label: "doi", url: "https://doi.org/10.1109/SP63933.2026.00204" },
+      { label: "code", url: "https://github.com/SyNSec-den/5GShield" },
     ],
   },
   {
