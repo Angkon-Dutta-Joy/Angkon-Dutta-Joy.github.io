@@ -22,12 +22,12 @@ const NEWS = [
     text: `Research paper <em>"Temporal Fusion of Convolutional and LSTM Networks for Vision-Based Fall Detection Using Anatomical Keypoints"</em> published at <strong>ICCIT 2025</strong>.`,
   },
   {
-    date: "2025",
+    date: "2026.06",
     type: "career",
     text: `Received the <strong>Best Thesis Award</strong> from BRAC University for undergraduate research on <em>Diffusion Models with Graph Attention for Spatiotemporal EEG Inpainting</em>.`,
   },
   {
-    date: "2025",
+    date: "2025.10",
     type: "career",
     text: `Served as a trainer for the <strong>Bangladesh Artificial Intelligence Olympiad (BdAIO) 2025</strong>, contributing to AI-focused training and mentoring.`,
   },
@@ -37,7 +37,7 @@ const NEWS = [
     text: `Became <strong>Director of Research and Development (R&D)</strong> at BRAC University Computer Club and founded its Research Wing.`,
   },
   {
-    date: "2024",
+    date: "2024.01",
     type: "career",
     text: `Joined <strong>BRACU Duburi</strong>, contributing to computer vision and AI-based projects in underwater robotics and autonomous systems.`,
   },
