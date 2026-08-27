@@ -37,6 +37,7 @@ My broader interests span <strong>AI/ML, computer vision, biomedical computing, 
   links: {
     email: "angkondutta@gmail.com",
     emailPersonal: "angkondutta@gmail.com",
+    emailBRACU: "angkon.dutta.joy@g.bracu.ac.bd",
     googleScholar: "",
     github: "https://github.com/Angkon-Dutta-Joy",
     linkedin: "https://www.linkedin.com/in/angkon-dutta-joy",

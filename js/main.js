@@ -73,7 +73,6 @@ function renderTopBarAndDrawer() {
     { key: "github",       icon: "code",              label: "GitHub",           href: () => p.links.github,                 target: "_blank" },
     { key: "linkedin",     icon: "business_center",   label: "LinkedIn",         href: () => p.links.linkedin,               target: "_blank" },
     { key: "twitter",      icon: "brand:x",           label: "Twitter / X",      href: () => p.links.twitter,                target: "_blank" },
-    { key: "buetProfile",  icon: "account_balance",   label: "BUET Profile",     href: () => p.links.buetProfile,            target: "_blank" },
   ];
   const drawerLinks = document.getElementById("drawer-links");
   drawerLinks.innerHTML = linkDefs
@@ -303,17 +302,15 @@ function renderContact() {
   if (!el) return;
   const p = PROFILE;
   const emails = [
-    { addr: p.links.email,         label: "Penn State (primary)", primary: true },
-    { addr: p.links.emailBuet,     label: "BUET" },
+    { addr: p.links.email,         label: "(primary)", primary: true },
     { addr: p.links.emailPersonal, label: "Personal" },
+    { addr: p.links.emailBRACU,    label: "BRAC University" },
   ].filter(e => e.addr);
 
   const socials = [
     { key: "googleScholar", icon: "school",           label: "Google Scholar" },
     { key: "github",        icon: "code",             label: "GitHub" },
     { key: "linkedin",      icon: "business_center",  label: "LinkedIn" },
-    { key: "twitter",       icon: "brand:x",          label: "Twitter / X" },
-    { key: "buetProfile",   icon: "account_balance",  label: "BUET Profile" },
   ].filter(s => p.links[s.key]);
 
   el.innerHTML = `
