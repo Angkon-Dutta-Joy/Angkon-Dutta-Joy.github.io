@@ -1,50 +1,55 @@
 const PROFILE = {
-  lastUpdated: "April 28, 2026",
-  name: "Mohammed (Md) Toufikuzzaman",
-  preferredName: "Toufik",
-  title: "Ph.D. Student",
-  department: "Computer Science and Engineering",
-  institution: "Pennsylvania State University",
-  location: "State College, PA",
-  photo: "img/Toufikuzzaman.JPG",
-  bio: `I am a third-year Ph.D. student at the <a href="https://www.eecs.psu.edu/departments/EECS-Departments-Computer-Science-Engineering3.aspx">Department of Computer Science and Engineering (CSE)</a> of <a href="https://www.psu.edu/">Pennsylvania State University</a>, advised by <a href="https://pike.psu.edu/dongwon/">Prof. Dongwon Lee</a> and co-advised by <a href="https://www.cse.psu.edu/~kxc104/">Prof. Kyusun Choi</a>. Previously, I obtained my bachelor's and master's degrees from the <a href="https://cse.buet.ac.bd/">Department of CSE</a>, <a href="https://www.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a>, where I also served as a <a href="https://cse.buet.ac.bd/faculty/faculty_detail/toufikuzzaman">Lecturer and Assistant Professor</a>.<br><br>
-My research intersects <strong>AI and cybersecurity</strong>, with a particular focus on the <strong>security and trustworthiness of Large Language Models (LLMs) and their surrounding ecosystem</strong>. I am also co-leading one of ten globally selected red teams at the Amazon Nova AI Challenge 2026, working on autonomous multi-agent red teaming of web applications.`,
+  lastUpdated: "August 27, 2026",
+  name: "Angkon Dutta Joy",
+  preferredName: "Angkon",
+  title: "Computer Science Graduate & Aspiring AI/ML Researcher",
+  department: "Department of Computer Science and Engineering",
+  institution: "BRAC University",
+  location: "Dhaka, Bangladesh",
+  photo: "img/Angkon_Dutta_Joy.JPG",
+
+  bio: `I am a Computer Science graduate from <a href="https://www.bracu.ac.bd/" target="_blank" rel="noopener">BRAC University</a> with a strong interest in <strong>Artificial Intelligence and Machine Learning</strong>. My undergraduate research focused on <strong>Diffusion Models with Graph Attention for Spatiotemporal EEG Inpainting</strong>, exploring the use of DDPM, GAT, and SVD for multichannel EEG reconstruction.<br><br>
+My broader interests span <strong>AI/ML, computer vision, biomedical computing, signal processing, spatiotemporal modeling, and intelligent systems</strong>. I have also worked on vision-based fall detection, robotics, and AI-focused projects, while contributing to research and technical communities through the BRAC University Computer Club. I am currently working as a <strong>Research Assistant</strong> at BRAC University under the supervision of <strong>Md. Golam Rabiul Alam, PhD</strong>, and am seeking opportunities to pursue deeper graduate-level research.`,
+
   researchInterests: [
-    "AI and Cybersecurity",
-    "Trustworthy & Reliable AI",
-    "Knowledge in LLMs — Storage, Retrieval & Manipulation",
-    "Precise LLM Unlearning (Bi-Level Optimization)",
-    "Mechanistic Interpretability",
-    "Agentic AI for Red-Team Automation",
-    "LLM Security & Robustness",
+    "Artificial Intelligence & Machine Learning",
+    "Computer Vision",
+    "Biomedical Computing",
+    "Signal Processing",
+    "Spatiotemporal Modeling",
+    "Diffusion Models",
+    "Graph Attention Networks",
+    "Autonomous & Intelligent Systems",
   ],
-  // Press / featured mentions shown as a callout on the About section
+
+  // Featured academic/research highlights shown as a callout on the About section
   featured: [
     {
-      label: "Penn State News",
-      text: `Team Lion-0xA — 1 of 10 global finalists in the <strong>Amazon Nova AI Challenge 2026</strong>. Toufik co-leads autonomous red-team AI research supported by a quarter-million-dollar Amazon grant and over $1.5M in AWS credits.`,
-      url: "https://www.psu.edu/news/research/story/ist-engineering-students-competing-global-amazon-nova-ai-challenge",
+      label: "Best Thesis Award",
+      text: `Received the <strong>Best Thesis Award</strong> from BRAC University for undergraduate research on <em>Diffusion Models with Graph Attention for Spatiotemporal EEG Inpainting</em>.`,
+      url: "",
+    },
+    {
+      label: "ICCIT 2025",
+      text: `Research paper <em>"Temporal Fusion of Convolutional and LSTM Networks for Vision-Based Fall Detection Using Anatomical Keypoints"</em> published at <strong>ICCIT 2025</strong>.`,
+      url: "https://ieeexplore.ieee.org/document/11490414",
     },
   ],
+
   links: {
-    email: "mpt5763@psu.edu",
-    emailBuet: "toufik@cse.buet.ac.bd",
-    emailPersonal: "md.toufikzaman@gmail.com",
-    googleScholar: "https://scholar.google.com/citations?user=-8m6JVAAAAAJ&hl=en",
-    github: "https://github.com/tzpranto",
-    linkedin: "https://linkedin.com/in/toufik-zaman-pranto",
-    twitter: "https://twitter.com/toufik_pranto",
-    buetProfile: "https://cse.buet.ac.bd/faculty/faculty_detail/toufikuzzaman",
-    buetLogo: "https://upload.wikimedia.org/wikipedia/en/b/b9/BUET_LOGO.svg",
+    email: "angkondutta@gmail.com",
+    emailPersonal: "angkondutta@gmail.com",
+    googleScholar: "",
+    github: "https://github.com/Angkon-Dutta-Joy",
+    linkedin: "https://www.linkedin.com/in/angkon-dutta-joy",
+    bracProfile: "",
     cv: "cv/main.pdf",
   },
-  hobbies: [
-    "Contemporary Philosophy",
-    "Experimenting in my home laboratory (the Kitchen)",
-    "Antique Collection",
-  ],
+
+  hobbies: [],
+
   erdosNumber: {
-    number: 4,
-    chain: "Paul Erdős → Lou Caccetta → William F. Smyth → M. Sohel Rahman → Md. Toufikuzzaman",
+    number: null,
+    chain: "",
   },
 };

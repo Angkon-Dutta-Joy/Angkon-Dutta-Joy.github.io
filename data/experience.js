@@ -1,104 +1,86 @@
 const EXPERIENCE = [
   {
     role: "Research Assistant",
-    org: "Department of CSE, Pennsylvania State University",
-    orgUrl: "https://www.psu.edu/",
-    period: "August 2024 – Present",
-    description: `Working with <a href="https://pike.psu.edu/dongwon/">Prof. Dongwon Lee</a> (<a href="https://pike.psu.edu/">PIKE Lab</a>) and <a href="https://www.cse.psu.edu/~kxc104/">Prof. Kyusun Choi</a> on the security and trustworthiness of LLMs and their surrounding ecosystem, including LLM unlearning (supervised by Prof. Dongwon Lee and Prof. Ahmad Mousavi).`,
+    org: "BRAC University",
+    orgUrl: "https://www.bracu.ac.bd/",
+    period: "2026 – Present",
+    description: "Working under the supervision of Md. Golam Rabiul Alam, PhD, on research in artificial intelligence and machine learning.",
   },
   {
-    role: "Faculty Member (on Study Leave)",
-    org: "Department of CSE, BUET",
-    orgUrl: "https://cse.buet.ac.bd/faculty_list/detail/toufikuzzaman",
-    period: "October 2019 – August 2024",
-    description: "Served as Lecturer (2019–2024) and Assistant Professor (2024) at the Department of CSE, Bangladesh University of Engineering and Technology (BUET).",
+    role: "Software Engineer Intern",
+    org: "Square Informatix Limited",
+    orgUrl: "",
+    period: "February 2026 – April 2026",
+    description: "Worked as a Software Engineer Intern with experience in backend development using .NET Core.",
   },
   {
-    role: "Research Assistant",
-    org: "Department of CSE, BUET",
-    orgUrl: "https://cse.buet.ac.bd/",
-    period: "May 2019 – September 2019",
-    description: `Research on automatic program repair under <a href="https://cse.buet.ac.bd/faculty_list/detail/anindyaiqbal">Dr. Anindya Iqbal</a>, funded by Samsung R&D Bangladesh.`,
+    role: "Director of Research and Development (R&D)",
+    org: "BRAC University Computer Club",
+    orgUrl: "",
+    period: "December 2024 – February 2026",
+    description: "Led the R&D Department, founded the Research Wing, and organized research-oriented workshops and activities.",
+  },
+  {
+    role: "Member",
+    org: "BRACU Duburi",
+    orgUrl: "",
+    period: "2024 – 2025",
+    description: "Developed and collaborated on computer vision and AI-based projects as part of an underwater robotics and research team focused on autonomous systems and innovation.",
+  },
+  {
+    role: "Robotics Instructor",
+    org: "Octobrain",
+    orgUrl: "",
+    period: "2024 – 2025",
+    description: "Trained 50+ students in robotics, simplifying technical concepts and improving engagement.",
   },
 ];
 
 const EDUCATION = [
   {
-    degree: "Ph.D., Computer Science and Engineering",
-    institution: "Pennsylvania State University",
-    institutionUrl: "https://www.psu.edu/",
-    period: "August 2024 – Present",
-    detail: "",
+    degree: "B.Sc. in Computer Science and Engineering",
+    institution: "BRAC University",
+    institutionUrl: "https://www.bracu.ac.bd/",
+    period: "2022 – February 2026",
+    detail: `CGPA: 3.82 / 4.00<br>
+      <strong>Thesis:</strong> Diffusion Models with Graph Attention for Spatiotemporal EEG Inpainting<br>
+      <strong>Supervisor:</strong> Md. Golam Rabiul Alam, PhD<br>
+      <strong>Co-Supervisor:</strong> Swakkhar Shatabda, PhD`,
   },
   {
-    degree: "M.Sc. Engg., Computer Science and Engineering",
-    institution: "Bangladesh University of Engineering and Technology (BUET)",
-    institutionUrl: "http://buet.ac.bd/",
-    period: "Passed in 2023",
-    detail: `CGPA: 4.00 / 4.00<br>
-      <strong>Thesis:</strong> <a href="http://lib.buet.ac.bd:8080/xmlui/handle/123456789/6516" target="_blank" rel="noopener">CRISPR-DIPOFF: An Interpretable Deep Learning Approach for CRISPR Cas-9 Off-Target Prediction</a><br>
-      <strong>Advisor:</strong> Dr. M. Sohel Rahman`,
-  },
-  {
-    degree: "B.Sc. Engg., Computer Science and Engineering",
-    institution: "Bangladesh University of Engineering and Technology (BUET)",
-    institutionUrl: "http://buet.ac.bd/",
-    period: "Passed in 2019",
-    detail: `CGPA: 3.97 / 4.00<br>
-      <strong>Thesis:</strong> CRISPRpred(SEQ): A Sequence-Based Tool for sgRNA On-Target Activity Prediction<br>
-      <strong>Advisor:</strong> Dr. M. Sohel Rahman`,
-  },
-  {
-    degree: "H.S.C. (Higher Secondary Certificate), Science",
-    institution: "Government K.C. College, Jhenaidah",
-    institutionUrl: "http://www.kccollege.edu.bd/",
-    period: "Passed in 2014",
-    detail: "GPA: 5.00 / 5.00",
-  },
-  {
-    degree: "S.S.C. (Secondary School Certificate), Science",
-    institution: "Jhenaidah Government High School",
-    institutionUrl: "https://jhenidahgovtsecondaryschool.jessoreboard.gov.bd/",
-    period: "Passed in 2012",
+    degree: "Higher Secondary Certificate, Science",
+    institution: "Chattogram Collegiate School and College",
+    institutionUrl: "",
+    period: "2020",
     detail: "GPA: 5.00 / 5.00",
   },
 ];
 
 const AWARDS = [
-  "<strong>Amazon Nova AI Challenge 2026</strong> — Co-led Penn State's Team Lion-0xA, selected as 1 of 10 global finalist teams; supported by a quarter-million-dollar Amazon grant and over $1.5M in AWS credits.",
-  "<strong>Penn State College of Engineering Scholarship</strong> ($4,000) — awarded as a competitive applicant for the Fall 2024 admission cycle.",
-  "Dean's List in all four levels and university talent-pool scholarship in all eight terms (B.Sc., BUET).",
-  "Board General Scholarship (H.S.C.).",
-  "Board General Scholarship (S.S.C.).",
+  "<strong>Best Thesis Award</strong> — BRAC University, 2025.",
+  "<strong>ICCIT 2025</strong> — Published research paper on vision-based fall detection using anatomical keypoints.",
 ];
 
 const TEACHING = [
-  // PSU
-  { code: "CMPEN 472",  title: "Microprocessor and Embedded Systems",         role: "TA, PSU" },
-  // BUET
-  { code: "CSE 405/406", title: "Computer Security",                          role: "Course Teacher, BUET" },
-  { code: "CSE 451/452", title: "Computer Networks",                          role: "Course Teacher, BUET" },
-  { code: "CSE 305/306", title: "Computer Architecture",                      role: "Course Teacher, BUET" },
-  { code: "CSE 215/216", title: "Database",                                   role: "Course Teacher, BUET" },
-  { code: "CSE 218",     title: "Numerical Methods",                          role: "Course Teacher, BUET" },
-  { code: "CSE 412",     title: "Simulation and Modeling",                    role: "Course Teacher, BUET" },
-  { code: "CSE 308",     title: "Software Engineering",                       role: "Course Teacher, BUET" },
-  { code: "CSE 326",     title: "Information System Design",                  role: "Course Teacher, BUET" },
-  { code: "CSE 408",     title: "Software Development",                       role: "Course Teacher, BUET" },
-  { code: "CSE 102",     title: "Structured Programming Language",            role: "Course Teacher, BUET" },
-  { code: "CSE 108",     title: "Object Oriented Programming Language",       role: "Course Teacher, BUET" },
-  { code: "CSE 208",     title: "Data Structures and Algorithms II",          role: "Course Teacher, BUET" },
-  { code: "CSE 284",     title: "Digital Techniques",                         role: "Course Teacher, BUET" },
+  {
+    code: "",
+    title: "AI Training",
+    role: "Trainer, BdAIO 2025",
+  },
+  {
+    code: "",
+    title: "Diffusion Models",
+    role: "Trainer, IAIO 2026 Grooming Camp, BRAC University",
+  },
+  {
+    code: "",
+    title: "Robotics",
+    role: "Instructor, Octobrain",
+  },
 ];
 
 const SERVICES = [
-  "<strong>Reviewer</strong> — IEEE Symposium on Security and Privacy (S&P), External Reviewer (2025); BMC Research Notes, Springer Nature (2020).",
-  "<strong>Course Teacher</strong> — <em>Generative AI and Deep Learning</em> for Samsung R&amp;D Bangladesh employees offered by BK-IAC, CSE, BUET.",
-  "Technical Committee Member of Investment Promotion & Financing Facility II (IPFF II) Project of Bangladesh Bank (Funded by the World Bank).",
-  "Vulnerability Assessment and Penetration Testing of Android, iOS, and Web applications and IT infrastructures of fintech institutions.",
-  "Consultation on Establishment of Security Operations Center (SOC) in a government organization of Bangladesh.",
-  "Member of various Technical Sub-Committees of Government Organizations in Bangladesh.",
-  "Development of Mission Critical components for BANBEIS IEIMS project of Ministry of Education of Bangladesh Government.",
-  "Designing Cyber Security Lab for Department of CSE, BUET.",
-  "Coach of several ICPC and CTF teams of CSE, BUET.",
+  "<strong>AI Trainer</strong> — Bangladesh Artificial Intelligence Olympiad (BdAIO) 2025.",
+  "<strong>AI Trainer</strong> — International Artificial Intelligence Olympiad (IAIO) 2026 Grooming Camp at BRAC University; conducted a session on Diffusion Models.",
+  "<strong>Research & Development Leadership</strong> — Founded and led the Research Wing of BRAC University Computer Club.",
 ];
