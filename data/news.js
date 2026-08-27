@@ -42,7 +42,7 @@ const NEWS = [
     text: `Joined <strong>BRACU Duburi</strong>, contributing to computer vision and AI-based projects in underwater robotics and autonomous systems.`,
   },
   {
-    date: "2024",
+    date: "2024.07",
     type: "career",
     text: `Joined <strong>Octobrain</strong> as a Robotics Instructor, training students and simplifying technical concepts.`,
   },
