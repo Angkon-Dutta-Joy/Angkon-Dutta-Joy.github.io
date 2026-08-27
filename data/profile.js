@@ -45,5 +45,5 @@ My broader interests span <strong>AI/ML, computer vision, biomedical computing, 
     cv: "cv/main.pdf",
   },
 
-  hobbies: [Playing flute and tabla, watching anime, traveling, outdoor activities],
+  hobbies: ["Playing flute and tabla, watching anime, traveling, outdoor activities"],
 };
