@@ -17,8 +17,7 @@ My broader interests span <strong>AI/ML, computer vision, biomedical computing, 
   "Deep Learning & Generative AI",
   "Computer Vision",
   "Biomedical AI & Signal Processing",
-  "Spatiotemporal Modeling",
-  "Data-Driven Intelligent Systems",
+  "Human-Computer Interaction",,
   ],
 
   // Featured academic/research highlights shown as a callout on the About section
