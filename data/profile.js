@@ -12,14 +12,13 @@ const PROFILE = {
 My broader interests span <strong>AI/ML, computer vision, biomedical computing, signal processing, spatiotemporal modeling, and intelligent systems</strong>. I have also worked on vision-based fall detection, robotics, and AI-focused projects, while contributing to research and technical communities through the BRAC University Computer Club. I am currently working as a <strong>Research Assistant</strong> at BRAC University under the supervision of <strong>Md. Golam Rabiul Alam, PhD</strong>, and am seeking opportunities to pursue deeper graduate-level research.`,
 
   researchInterests: [
-    "Artificial Intelligence & Machine Learning",
-    "Computer Vision",
-    "Biomedical Computing",
-    "Signal Processing",
-    "Spatiotemporal Modeling",
-    "Diffusion Models",
-    "Graph Attention Networks",
-    "Autonomous & Intelligent Systems",
+  "Artificial Intelligence & Machine Learning",
+  "Data Science & Analytics",
+  "Deep Learning & Generative AI",
+  "Computer Vision",
+  "Biomedical AI & Signal Processing",
+  "Spatiotemporal Modeling",
+  "Data-Driven Intelligent Systems",
   ],
 
   // Featured academic/research highlights shown as a callout on the About section

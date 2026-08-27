@@ -1,4 +1,3 @@
-// Publications list. Most recent first.
 const PUBLICATIONS = [
   {
     authors: "<strong>Angkon Dutta Joy</strong>, et al.",

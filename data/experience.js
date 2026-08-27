@@ -4,35 +4,35 @@ const EXPERIENCE = [
     org: "BRAC University",
     orgUrl: "https://www.bracu.ac.bd/",
     period: "2026 – Present",
-    description: "Working under the supervision of Md. Golam Rabiul Alam, PhD, on research in artificial intelligence and machine learning.",
+    description: "Conducting research in artificial intelligence and machine learning under the supervision of Md. Golam Rabiul Alam, PhD.",
   },
   {
-    role: "Software Engineer Intern",
-    org: "Square Informatix Limited",
+    role: "Software Development Intern",
+    org: "Square Informatix Ltd.",
     orgUrl: "",
     period: "February 2026 – April 2026",
-    description: "Worked as a Software Engineer Intern with experience in backend development using .NET Core.",
+    description: "Worked on software development and backend solutions, collaborating with cross-functional teams on application development, testing, and requirements analysis.",
   },
   {
     role: "Director of Research and Development (R&D)",
     org: "BRAC University Computer Club",
     orgUrl: "",
     period: "December 2024 – February 2026",
-    description: "Led the R&D Department, founded the Research Wing, and organized research-oriented workshops and activities.",
+    description: "Led the Research and Development activities of the club, founded the Research Wing, and organized research-focused workshops and initiatives.",
   },
   {
     role: "Member",
     org: "BRACU Duburi",
     orgUrl: "",
     period: "2024 – 2025",
-    description: "Developed and collaborated on computer vision and AI-based projects as part of an underwater robotics and research team focused on autonomous systems and innovation.",
+    description: "Contributed to computer vision and AI-based projects as part of an underwater robotics and autonomous systems team.",
   },
   {
     role: "Robotics Instructor",
     org: "Octobrain",
     orgUrl: "",
     period: "2024 – 2025",
-    description: "Trained 50+ students in robotics, simplifying technical concepts and improving engagement.",
+    description: "Trained 50+ students in robotics, explaining technical concepts through practical and engaging learning activities.",
   },
 ];
 
@@ -57,15 +57,15 @@ const EDUCATION = [
 ];
 
 const AWARDS = [
-  "<strong>Best Thesis Award</strong> — BRAC University, 2025.",
-  "<strong>ICCIT 2025</strong> — Published research paper on vision-based fall detection using anatomical keypoints.",
+  "<strong>Best Thesis Award</strong> — BRAC University, 2025, for undergraduate thesis on Diffusion Models with Graph Attention for Spatiotemporal EEG Inpainting.",
+  "<strong>ICCIT 2025</strong> — Co-authored research paper on vision-based fall detection using anatomical keypoints and temporal deep learning.",
 ];
 
 const TEACHING = [
   {
     code: "",
-    title: "AI Training",
-    role: "Trainer, BdAIO 2025",
+    title: "Artificial Intelligence",
+    role: "Trainer, Bangladesh Artificial Intelligence Olympiad (BdAIO) 2025",
   },
   {
     code: "",
@@ -82,5 +82,6 @@ const TEACHING = [
 const SERVICES = [
   "<strong>AI Trainer</strong> — Bangladesh Artificial Intelligence Olympiad (BdAIO) 2025.",
   "<strong>AI Trainer</strong> — International Artificial Intelligence Olympiad (IAIO) 2026 Grooming Camp at BRAC University; conducted a session on Diffusion Models.",
+  "<strong>Professional Training in Data Science</strong> — Hands-on training covering EDA, Feature Engineering, Machine Learning, Time Series Forecasting, Model Deployment, and MLOps, organized by the Bangladesh Government, ADB, BRAC University, and SICIP.",
   "<strong>Research & Development Leadership</strong> — Founded and led the Research Wing of BRAC University Computer Club.",
 ];
