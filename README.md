@@ -1,7 +1,3 @@
-# tzpranto.github.io
-
-GitHub personal website. Visit my website http://tzpranto.github.io
-
 ## Usage
 
 - Fork this repository
