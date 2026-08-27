@@ -45,10 +45,5 @@ My broader interests span <strong>AI/ML, computer vision, biomedical computing, 
     cv: "cv/main.pdf",
   },
 
-  hobbies: [],
-
-  erdosNumber: {
-    number: null,
-    chain: "",
-  },
+  hobbies: [Playing flute and tabla, watching anime, traveling, outdoor activities],
 };
