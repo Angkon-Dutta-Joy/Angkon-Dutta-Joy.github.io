@@ -6,7 +6,7 @@ const PROFILE = {
   department: "Department of Computer Science and Engineering",
   institution: "BRAC University",
   location: "Dhaka, Bangladesh",
-  photo: "img/Angkon_Dutta_Joy.JPG",
+  photo: "img/Angkon_Dutta_Joy.png",
 
   bio: `I am a Computer Science graduate from <a href="https://www.bracu.ac.bd/" target="_blank" rel="noopener">BRAC University</a> with a strong interest in <strong>Artificial Intelligence and Machine Learning</strong>. My undergraduate research focused on <strong>Diffusion Models with Graph Attention for Spatiotemporal EEG Inpainting</strong>, exploring the use of DDPM, GAT, and SVD for multichannel EEG reconstruction.<br><br>
 My broader interests span <strong>AI/ML, computer vision, biomedical computing, signal processing, spatiotemporal modeling, and intelligent systems</strong>. I have also worked on vision-based fall detection, robotics, and AI-focused projects, while contributing to research and technical communities through the BRAC University Computer Club. I am currently working as a <strong>Research Assistant</strong> at BRAC University under the supervision of <strong>Md. Golam Rabiul Alam, PhD</strong>, and am seeking opportunities to pursue deeper graduate-level research.`,
