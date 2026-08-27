@@ -82,5 +82,5 @@ const TEACHING = [
 const SERVICES = [
   "<strong>AI Trainer</strong> — International Artificial Intelligence Olympiad (IAIO) 2026 Grooming Camp at BRAC University; trained the Bangladesh Artificial Intelligence Olympiad (BdAIO) team and conducted a session on Diffusion Models and AI.",
   "<strong>Professional Training in Data Science</strong> — Hands-on training covering EDA, Feature Engineering, Machine Learning, Time Series Forecasting, Model Deployment, and MLOps, organized by the Bangladesh Government, ADB, BRAC University, and SICIP.",
-  "<strong>Research & Development Leadership</strong> — Founded and led the Research Wing of BRAC University Computer Club.",
+  "<strong>Research & Development Leadership</strong> — Founded and led the A.M. Turing Research Incubation Wing of BRAC University Computer Club.",
 ];
