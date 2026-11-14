@@ -1,6 +1,12 @@
 // Timeline / News items. Most recent first.
 // type: "pub" | "personal" | "career" | (omit for general news)
 const NEWS = [
+  
+  {
+    date: "2026.10",
+    type: "career",
+    text: `Started as a <strong>Research Fellow</strong> at <strong>BRAC IT Services Ltd.</strong> under the <strong>BSAISL Project</strong>.`,
+  },
   {
     date: "2026.08",
     type: "career",

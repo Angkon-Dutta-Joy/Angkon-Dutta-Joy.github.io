@@ -6,6 +6,15 @@ const EXPERIENCE = [
     period: "2026 – Present",
     description: "Conducting research in artificial intelligence and machine learning under the supervision of Md. Golam Rabiul Alam, PhD.",
   },
+  
+  {
+    role: "Research Fellow",
+    org: "BRAC IT Services Ltd.",
+    orgUrl: "",
+    period: "October 2026 – Present",
+    description: "Working as a Research Fellow under the BSAISL Project, contributing to research and development activities.",
+  },
+
   {
     role: "Software Development Intern",
     org: "Square Informatix Ltd.",
@@ -49,7 +58,7 @@ const EDUCATION = [
   },
   {
     degree: "Higher Secondary Certificate, Science",
-    institution: "Chattogram Collegiate School and College",
+    institution: "Chattogram Collegiate School",
     institutionUrl: "",
     period: "2020",
     detail: "GPA: 5.00 / 5.00",
