@@ -21,4 +21,31 @@ My broader research interests span <strong>AI/ML, computer vision, biomedical co
     "Human-Computer Interaction",
   ],
 
+  featured: [
+    {
+      label: "Best Thesis Award",
+      text: `Received the <strong>Best Thesis Award</strong> from BRAC University for undergraduate research on <em>Diffusion Models with Graph Attention for Spatiotemporal EEG Inpainting</em>.`,
+      url: "",
+    },
+    {
+      label: "ICCIT 2025",
+      text: `Research paper <em>"Temporal Fusion of Convolutional and LSTM Networks for Vision-Based Fall Detection Using Anatomical Keypoints"</em> published at <strong>ICCIT 2025</strong>.`,
+      url: "https://ieeexplore.ieee.org/document/11490414",
+    },
+  ],
+
+  links: {
+    email: "angkondutta@gmail.com",
+    emailPersonal: "angkondutta@gmail.com",
+    emailBRACU: "angkon.dutta.joy@g.bracu.ac.bd",
+    googleScholar: "",
+    github: "https://github.com/Angkon-Dutta-Joy",
+    linkedin: "https://www.linkedin.com/in/angkon-dutta-joy",
+    bracProfile: "",
+    cv: "cv/main.pdf",
+  },
+
+  hobbies: [
+    "Playing flute and tabla, watching anime, traveling, outdoor activities",
+  ],
 };
